@@ -2,7 +2,7 @@
 
 # OUTPUT
 
-![Calculator Screenshot](screenshot/calculator.jpg)
+![Calculator Screenshot](screenshot/calculator.png)
 
 A simple web-based calculator built using HTML, CSS, and JavaScript. This calculator allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. It also includes a backspace functionality to remove the last entered digit.
 
